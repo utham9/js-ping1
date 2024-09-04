@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://www.google.com/",
+  "method": "GET",
+  "interval": 10000
+}
